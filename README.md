@@ -12,3 +12,6 @@ Since graduating from Cornell, I've been lucky enough to intern with the Interna
 
 ### VRms
 For my senior design project at Purdue, a few students and I created a VR controlled robot arm (VR + arms = VRms). This project was very unique to me as it was the first time I had the chance to put together all of the things I had learned to that point into one cohesive product. My teammates and I developed the project with Unity VR, embedded systems design, video streaming through a Raspberry Pi, and by designing and assembling a PCB from scratch. More details on our design process and project demos can be found [here](https://477-vrms.github.io/vrm-website/).
+
+### Cone Detection
+A model that detects cones in images and their distances from the camera using multivairate Gaussian distributions alongside Bayes' Theorem.
