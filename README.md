@@ -15,3 +15,6 @@ For my senior design project at Purdue, a few students and I created a VR contro
 
 ### Cone Detection
 A model that detects cones in images and their distances from the camera using multivairate Gaussian distributions alongside Bayes' Theorem.
+
+### Gesture Recognition
+A model that detects gestures present in IMU data using Hidden Markov Models (HMMs) with the Baum-Welch algorithm.
