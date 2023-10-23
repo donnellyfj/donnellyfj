@@ -18,3 +18,6 @@ A model that detects cones in images and their distances from the camera using m
 
 ### Gesture Recognition
 A model that detects gestures present in IMU data using Hidden Markov Models (HMMs) with the Baum-Welch algorithm.
+
+### Watch Party
+A Chrome extension that allows you and your friends to synchronize video play/pause actions on video playing websites.
